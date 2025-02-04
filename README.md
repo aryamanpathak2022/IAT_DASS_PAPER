@@ -19,6 +19,10 @@ This repository contains the source codes and resources for the research paper *
 - **dataset/**  
   Contains the processed dataset (`.csv` format) after cleaning and handling missing values.
 
+## Hugging face 
+
+https://huggingface.co/spaces/aryamanpathak/IAT_PREDICTOR
+
 ## Dataset
 
 The dataset used in this study consists of 724 effective samples collected independently. It is preprocessed to remove null values and is used to train and evaluate the machine learning models.
