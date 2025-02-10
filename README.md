@@ -16,18 +16,8 @@ This repository contains the source codes and resources for the research paper *
 - **proposed_model/**  
   Stores the final proposed neural network model in `.h5` format, along with Keras model files.
   
-- **dataset/**  
-  Contains the processed dataset (`.csv` format) after cleaning and handling missing values.
 
-## Hugging face 
 
-https://huggingface.co/spaces/aryamanpathak/IAT_PREDICTOR
-
-## Dataset
-
-The dataset used in this study consists of 724 effective samples collected independently. It is preprocessed to remove null values and is used to train and evaluate the machine learning models.
-
-A link to the dataset on Kaggle -  https://kaggle.com/datasets/b28543377eda18e79d300914263f2116870bd78c10afdbee74201f5df9efe2e1
 
 ## Web Application
 
@@ -46,9 +36,5 @@ Despite the relatively small dataset, a neural network (NN) model was chosen for
 ## Citation
 If you use this repository or dataset in your research, please cite the paper accordingly.
 
-## Authors
-    - Aryaman Pathak
-    - Shweta Sunil
-    - Madhav Rao
-    - Manoj Sharma
+
 
